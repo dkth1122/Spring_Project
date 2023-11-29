@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=200&section=header&text=&fontSize=50&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&with=300&height=200&section=header&text=&fontSize=50&fontColor=fff" />
 <div align="center">
  <img src="https://github.com/dkth1122/Project_4/assets/134511884/501a3588-d12c-4a8a-a3d1-e6adf30834a7"> 
 </div>
