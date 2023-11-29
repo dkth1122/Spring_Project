@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 
 - 멤버십 등록 & 멤버십 전용 게시판 시스템(알림, 글 작성, 댓글, 좋아요 등)<br>
 
-[![멤버십 시연](https://github.com/dkth1122/Spring_Project/멤버십썸네일.png)](https://youtu.be/NR1w8jeCaWc)
+[![멤버십 시연](https://github.com/dkth1122/Spring_Project/blob/main/멤버십썸네일.png)](https://youtu.be/NR1w8jeCaWc)
 
 <br>
 <br>
