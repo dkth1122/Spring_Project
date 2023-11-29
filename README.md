@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br>
 <h2>💁‍♂️ 담당 역할</h2>
 쇼핑몰 상품 출력 및 카테고리 정렬, 검색<br/>- 결제 api 연결 및 주문 내역, 결제 내역, 배송 업데이트<br/>- 배송 주소록 출력 및 등록, 수정<br/>- 장바구니 등록, 삭제, 수량 수정<br/>- 멤버쉽 등록<br/>- 멤버쉽 전용 게시판 시스템 전체 (알림, 글 작성, 댓글, 좋아요 등)
+
 <br>
 <br>
 
@@ -41,43 +42,8 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 </div>
-<br>
-<br>
 
-<h2>⚙ 기능 구현</h2>
-<h3>📌 메인</h3>
-<ul>
-  <li>서비스 검색기능</li>
-  <li>채팅 챗봇</li>
-  <li>바텀바</li>
-  <li>찜 기능</li>
-</ul>
-<h3>📌 상품/포트폴리오</h3>
-<ul>
-  <li>상품 상세페이지</li>
-  <li>토스 API 결제</li>
-  <li>리뷰 및 문의기능</li>
-  <li>전문가 포트폴리오</li>
-</ul>
-<h3>📌 관리자</h3>
-<ul>
-  <li>회원 정보관리</li>
-  <li>고객센터 관리</li>
-  <li>공지관리</li>
-  <li>쿠폰관리</li>
 
-</ul>
-<h3>📌 마이페이지</h3>
-<ul>
-  <li>계정관리</li>
-  <li>프로젝트 의뢰 및 제안</li>
-  <li>수익관리, 판매관리, 구매관리</li>
-  <li>메세지 응답관리, 채팅관리</li>
-
-</ul>
-<h3>📌 관리자</h3>
-<ul>
-  <li>상품 등록, 수정, 배송</li>
   <li>중고 상품 관리 및 배송</li>
   <li>고객, 문의, 리뷰 관리</li>
   <li>통계를 통한 매출확인</li>
