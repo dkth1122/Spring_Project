@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&with=300&height=200&section=header&text=&fontSize=50&fontColor=fff" />
-<div align="center">
- <img src="https://github.com/dkth1122/Project_4/assets/134511884/501a3588-d12c-4a8a-a3d1-e6adf30834a7"> 
-</div>
+<img src="https://github.com/dkth1122/Project_4/assets/134511884/501a3588-d12c-4a8a-a3d1-e6adf30834a7"> 
 <h2>🔎 프로젝트 정보</h2>
 <div><b>📆 2023.10.23 ~ 2023.11.10 (19일)</b></div>
 <div>더조은컴퓨터아카데미 두 번째 단체 프로젝트.</div>
