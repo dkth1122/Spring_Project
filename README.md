@@ -20,10 +20,13 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br>
 <h2>💁‍♂️ 담당 역할</h2>
 - 쇼핑몰 상품 출력 및 카테고리 정렬<br>
+
 [![상품 시연]](https://youtu.be/InzBgcVYjUc)
+
 <br>
 - 결제 api 연결 및 주문 내역, 결제 내역, 배송 업데이트<br>
 - 결제 페이지 내 배송 주소록 출력 및 등록, 수정<br>
+
 [![결제 시연]](https://youtu.be/GhP6iGed3R8)
 <br><br>
 - 장바구니 등록, 삭제, 수량 수정<br>
