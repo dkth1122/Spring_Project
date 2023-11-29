@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br>
 <h2>💁‍♂️ 담당 역할</h2>
 - 쇼핑몰 상품 출력 및 카테고리 정렬<br>
-[![상품 시연](https://github.com/dkth1122/Spring_Project/상품썸네일.png)](https://youtu.be/InzBgcVYjUc)
+[![상품 시연](https://github.com/dkth1122/Spring_Project/assets/134511884/5c00ef3e-f37e-4ec3-81f0-861c392bb482)](https://youtu.be/InzBgcVYjUc)
 
 <br><br>
 - 결제 api 연결 및 주문 내역, 결제 내역, 배송 업데이트<br>
@@ -31,13 +31,13 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br><br>
 - 장바구니 등록, 삭제, 수량 수정<br>
 
-[![장바구니 시연](https://github.com/dkth1122/Spring_Project/장바구니썸네일.png)](https://youtu.be/PmpIBQCPI-8)
+[![장바구니 시연](https://github.com/dkth1122/Spring_Project/assets/134511884/a71d0016-5bfd-4842-a200-684fc971b2b3)](https://youtu.be/PmpIBQCPI-8)
 
 <br><br>
 
 - 멤버십 등록 & 멤버십 전용 게시판 시스템(알림, 글 작성, 댓글, 좋아요 등)<br>
 
-[![멤버십 시연](https://github.com/dkth1122/Spring_Project/blob/main/멤버십썸네일.png)](https://youtu.be/NR1w8jeCaWc)
+[![멤버십 시연](https://github.com/dkth1122/Spring_Project/assets/134511884/a20d6b4d-f0d9-4860-9286-662f85bbc894)](https://youtu.be/NR1w8jeCaWc)
 
 <br>
 <br>
