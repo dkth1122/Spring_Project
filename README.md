@@ -19,7 +19,9 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br>
 <br>
 <h2>💁‍♂️ 담당 역할</h2>
+
 - 쇼핑몰 상품 출력 및 카테고리 정렬<br>
+
 [![상품 시연](https://github.com/dkth1122/Spring_Project/assets/134511884/5c00ef3e-f37e-4ec3-81f0-861c392bb482)](https://youtu.be/InzBgcVYjUc)
 
 <br><br>
