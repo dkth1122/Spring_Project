@@ -21,12 +21,14 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <h2>💁‍♂️ 담당 역할</h2>
 - 쇼핑몰 상품 출력 및 카테고리 정렬<br>
 
-[![상품 시연]](https://youtu.be/InzBgcVYjUc)
+[[상품 시연]](https://youtu.be/InzBgcVYjUc)
 
 <br>
 - 결제 api 연결 및 주문 내역, 결제 내역, 배송 업데이트<br>
 - 결제 페이지 내 배송 주소록 출력 및 등록, 수정<br>
-[![결제 시연](결제썸네일.png)](https://youtu.be/GhP6iGed3R8)
+
+[![결제 시연](https://github.com/dkth1122/Spring_Project/assets/134511884/ebbba53a-77fc-430d-9289-bbe587dc7961)](https://youtu.be/GhP6iGed3R8)
+
 <br><br>
 - 장바구니 등록, 삭제, 수량 수정<br>
 [![장바구니 시연](여기에 이미지 또는 썸네일 이미지 링크)](https://youtu.be/PmpIBQCPI-8)
