@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&with=300&height=200&section=header&text=&fontSize=50&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=200&section=header&text=&fontSize=50&fontColor=fff" />
 <div align="center">
 <img src="https://github.com/dkth1122/Project_4/assets/134511884/501a3588-d12c-4a8a-a3d1-e6adf30834a7"> 
 </div>
@@ -62,4 +62,6 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 </div>
+<br>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=200&section=footer&text=&fontSize=50&fontColor=fff" />
