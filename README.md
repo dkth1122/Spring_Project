@@ -12,11 +12,6 @@ https://github.com/dkth1122/Project_4.git
 <div>전체 시연 영상</div>
 https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br><br>
-<div>맡은 역할 시연 영상</div>
-
-
-<br>
-<br>
 <h2>✨ 프로젝트 소개</h2>
 <div>VERY PERI 팬 커머스샵은 스프링부트를 기반으로 한 온라인 판매 플랫폼입니다.</div>
 <div>이 프로젝트는 멤버쉽 기능을 중심으로 멤버쉽 전용 게시판을 추가하여 사용자들에게 더 많은 가치를 제공하는 것을 목표로 하였습니다.</div>
@@ -24,8 +19,11 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br>
 <br>
 <h2>💁‍♂️ 담당 역할</h2>
-- 쇼핑몰 상품 출력 및 카테고리 정렬, 검색<br/>- 결제 api 연결 및 주문 내역, 결제 내역, 배송 업데이트<br/>- 배송 주소록 출력 및 등록, 수정<br/>- 장바구니 등록, 삭제, 수량 수정<br/>- 멤버쉽 등록<br/>- 멤버쉽 전용 게시판 시스템 전체 (알림, 글 작성, 댓글, 좋아요 등)
-
+- 쇼핑몰 상품 출력 및 카테고리 정렬, 검색<br>
+- 결제 api 연결 및 주문 내역, 결제 내역, 배송 업데이트<br>
+- 결제 페이지 내 배송 주소록 출력 및 등록, 수정<br>
+- 장바구니 등록, 삭제, 수량 수정<br>
+- 멤버쉽 등록 & 멤버쉽 전용 게시판 시스템 (알림, 글 작성, 댓글, 좋아요 등)<br>
 <br>
 <br>
 
@@ -47,10 +45,3 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 </div>
-
-
-  <li>중고 상품 관리 및 배송</li>
-  <li>고객, 문의, 리뷰 관리</li>
-  <li>통계를 통한 매출확인</li>
-</ul>
-
