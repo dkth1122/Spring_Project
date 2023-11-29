@@ -5,12 +5,13 @@
 <h2>🔎 프로젝트 정보</h2>
 <div><b>📆 2023.10.23 ~ 2023.11.10 (19일)</b></div>
 <div>더조은컴퓨터아카데미 두 번째 단체 프로젝트.</div>
+<br>
 <div>깃 허브 소스 파일 링크</div>
 https://github.com/dkth1122/Project_4.git
-<br>
+<br><br>
 <div>전체 시연 영상</div>
 https://www.youtube.com/watch?v=hd7By1O5Mzg
-<br>
+<br><br>
 <div>맡은 역할 시연 영상</div>
 
 
