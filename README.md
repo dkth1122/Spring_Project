@@ -12,6 +12,10 @@ VERY PERI 팬 커머스샵은 스프링부트를 기반으로 한 온라인 판�
   
 이 프로젝트는 멤버쉽 기능을 중심으로 멤버쉽 전용 게시판을 추가하여 사용자들에게 더 많은 가치를 제공하는 것을 목표로 하였습니다.  
 
+## 시연 영상
+
+https://www.youtube.com/watch?v=hd7By1O5Mzg
+
 
 ## ❤기술 스택❤
 - 툴 : Eclipse, Visual Studio Code, HeidiSql, git
