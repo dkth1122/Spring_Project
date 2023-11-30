@@ -7,7 +7,7 @@
 <div>더조은컴퓨터아카데미 두 번째 단체 프로젝트.</div>
 
 
-![다운로드 PDF](VERYPERI 세미프로젝트.pdf)
+[다운로드 PDF](VERYPERI 세미프로젝트.pdf)
 
 <br>
 <div>깃 허브 소스 파일 링크</div>
