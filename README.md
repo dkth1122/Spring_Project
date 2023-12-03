@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=hd7By1O5Mzg
 <br>
 <br>
 <br>
-<h2>💁‍♂️ 담당 역할</h2>
+<h2>💁‍♂️ 담당 역할 및 시연 영상</h2>
 
 - 쇼핑몰 상품 출력 및 카테고리 정렬<br>
 
