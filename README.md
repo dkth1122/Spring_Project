@@ -6,7 +6,7 @@
 <div><b>📆 2023.10.23 ~ 2023.11.10 (19일)</b></div>
 <div>더조은컴퓨터아카데미 두 번째 단체 프로젝트.</div>
 
-[팀 프로젝트 개인 PDF 다운](SpringBoots_Project_윤나연.pdf)
+[PDF 다운](SpringBoots_Project_윤나연.pdf)
 
 <br>
 <div>깃 허브 소스 파일 링크</div>
